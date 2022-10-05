@@ -6,7 +6,7 @@ que calcule um dos algoritmos abaixo listados:
 
 - Calcule o Fibonacci de um número fornecido pelo usuário
 
-- Calcule o Fatorial de um número fornecido pelo usuário:
+- Calcule o Fatorial de um número fornecido pelo usuário
 |___[x] Fatorial component 
 
 - Verifique se uma palavra fornecida pelo usuário é uma palíndromo
